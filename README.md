@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MRezaFallah
-- 👀 I’m interested in This Universe and Computers
+- 👀 I’m interested in The Universe and Computers
 - 🌱 I’m currently learning Flutter & Linux 
 - 💞️ I’m looking to collaborate on a project that I can be helpful
 - 📫 How to reach me : Mr.fallahzade@gmail.com
